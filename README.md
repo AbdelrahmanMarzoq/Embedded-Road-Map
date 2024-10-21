@@ -39,7 +39,7 @@
 #### - Interfacing
 ##### &nbsp; &nbsp; &nbsp; • Know How to Interface Periphral With MCU
 ##### &nbsp; &nbsp; &nbsp; • Know About Standard Cmmuniaction Protocols UART - SPI - I2C
-##### &nbsp; &nbsp; &nbsp; • CAN - LIN
+##### &nbsp; &nbsp; &nbsp; • CAN - LIN Protocols (Automotive Protocols)
 
 
 
