@@ -19,7 +19,7 @@
 ##
 ##### - Learning C Programming
 #####    • DataTypes - Loops - Conditions
-#####    • Array - Strings
+    - Array - Strings
 #####    • Functions
 #####    • Struct, Uinion, Enum
 #####    • Preprocessor Directives
