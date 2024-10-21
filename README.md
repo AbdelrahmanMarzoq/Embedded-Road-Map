@@ -39,10 +39,8 @@
 #### - Interfacing
 ##### &nbsp; &nbsp; &nbsp; • Know How to Interface Periphral With MCU
 ##### &nbsp; &nbsp; &nbsp; • Know About Standard Cmmuniaction Protocols UART - SPI - I2C
+##### &nbsp; &nbsp; &nbsp; • ADC- Timer
 ##### &nbsp; &nbsp; &nbsp; • CAN - LIN Protocols (Automotive Protocols)
-
-
-
 
 
 
@@ -51,5 +49,11 @@
 #### - RTOS
 
 ### 5. More Courses
+#### - Linux OS
+#### - Software Testing
+#### - ROS For Robotics
+
+
+
 
 
