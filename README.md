@@ -1,7 +1,7 @@
 # Embedded System ROADMAP
 
 ## Overview
-### Welcome To Embedded Road Map This RoadMap is Helping you To Dive in Journey For Become Embedded Software Engineer
+##### Welcome To Embedded Road Map This RoadMap is Helping you To Dive in Journey For Becoming Embedded Software Engineer
 
 ## Content
 #### 1. Introduction
