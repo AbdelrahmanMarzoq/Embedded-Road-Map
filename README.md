@@ -18,12 +18,12 @@
 ### 2. Beginner Level
 ##
 ##### - Learning C Programming
-#####    • DataTypes - Loops - Conditions
-#####    • Array - Strings
-#####    • Functions
-#####    • Struct, Uinion, Enum
-#####    • Preprocessor Directives
-#####    • Pointers
+#####   &nbsp; &nbsp; &nbsp; • DataTypes - Loops - Conditions
+#####   &nbsp; &nbsp; &nbsp; • Array - Strings
+#####   &nbsp; &nbsp; &nbsp; • Functions
+#####   &nbsp; &nbsp; &nbsp; • Struct, Uinion, Enum
+#####   &nbsp; &nbsp; &nbsp; • Preprocessor Directives
+#####   &nbsp; &nbsp; &nbsp; • Pointers
 
 ##### - Data Structure
 ##### • Queue - Stack - Linked list (Know What is this and Implement Its Functions)
