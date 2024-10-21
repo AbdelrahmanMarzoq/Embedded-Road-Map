@@ -25,19 +25,25 @@
 #####   &nbsp; &nbsp; &nbsp; • Preprocessor Directives
 #####   &nbsp; &nbsp; &nbsp; • Pointers
 
-##### - Data Structure
+#### - Data Structure
 ##### &nbsp; &nbsp; &nbsp; • Queue - Stack - Linked list (Know What is this and Implement Its Functions)
 
-##### - Algorithms
+#### - Algorithms
 ##### &nbsp; &nbsp; &nbsp; • Knowing Some Algorithms Technique (Searching - Sorting) Algorithms
 
 ##### - Embedded C 
-##### &nbsp; &nbsp; &nbsp; • Startup Code
-##### &nbsp; &nbsp; &nbsp; • Linker Scribt
-
 
 
 ### 3. Intermediate Level
+#### - MCU Fundmentals
+#### - Interfacing
+##### &nbsp; &nbsp; &nbsp; • Know How to Interface Periphral With MCU
+##### &nbsp; &nbsp; &nbsp; • Know About Standard Cmmuniaction Protocols UART - SPI - I2C
+##### &nbsp; &nbsp; &nbsp; • CAN - LIN
+
+
+
+
 
 
 
