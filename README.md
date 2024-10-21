@@ -1,9 +1,7 @@
 # Embedded System ROADMAP
 
 
-
-## of Content
-## ----------------------------------------------------------------
+## Content
 
 
 #### 1. Introduction
