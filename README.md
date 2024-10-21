@@ -5,9 +5,30 @@
 
 ## Content
 #### 1. Introduction
+##### This Road Map Have Three Levels Beginner - Intermediate - Advanced
 #### 2. Beginner Level
+##### - Learning C Programming
+#####    • DataTypes - Loops - Conditions
+#####    • Array - Strings
+#####    • Functions
+#####    • Struct, Uinion, Enum
+#####    • Preprocessor Directives
+#####    • Pointers
+##### --------------------------------------
+##### - Embedded C 
+##### • Startup Code
+##### • Linker Scribt
+
+
+
 #### 3. Intermediate Level
+
+
+
 #### 4. Advanced Level
+
+
+
 #### 5. More Courses
 
 
