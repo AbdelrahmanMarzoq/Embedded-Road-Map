@@ -26,14 +26,14 @@
 #####   &nbsp; &nbsp; &nbsp; • Pointers
 
 ##### - Data Structure
-##### • Queue - Stack - Linked list (Know What is this and Implement Its Functions)
+##### &nbsp; &nbsp; &nbsp; • Queue - Stack - Linked list (Know What is this and Implement Its Functions)
 
 ##### - Algorithms
-##### • Knowing Some Algorithms Technique (Searching - Sorting) Algorithms
+##### &nbsp; &nbsp; &nbsp; • Knowing Some Algorithms Technique (Searching - Sorting) Algorithms
 
 ##### - Embedded C 
-##### • Startup Code
-##### • Linker Scribt
+##### &nbsp; &nbsp; &nbsp; • Startup Code
+##### &nbsp; &nbsp; &nbsp; • Linker Scribt
 
 
 
