@@ -1,7 +1,7 @@
 # Embedded System ROADMAP
 
 ## Overview
-##### Welcome To Embedded Road Map This Road Map is Designed By [Abdelrhman Marzoq](https://www.linkedin.com/in/abdelrahmanmarzoq/) Helping you To Dive in Journey For Becoming Embedded Software Engineer
+##### Welcome To Embedded Road Map This Road Map is Designed Helping you To Dive in Journey For Becoming Embedded Software Engineer
 
 ## Content
 #### [Introduction](https://github.com/AbdelrahmanMarzoq/Embedded-Road-Map/blob/main/README.md#1-introduction)
