@@ -23,8 +23,12 @@
 #####    • Preprocessor Directives
 #####    • Pointers
 ##### --------------------------------------
+##### - Data Structure
+##### • Queue - Stack - Linked list (Know What is this and Implement Its Functions)
+
+
 ##### - Embedded C 
-##### • Startup Code
+c Startup Code
 ##### • Linker Scribt
 
 
