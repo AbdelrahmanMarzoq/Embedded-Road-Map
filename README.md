@@ -17,7 +17,7 @@
 ##### This Road Map Have Three Levels Beginner - Intermediate - Advanced
 ### 2. Beginner Level
 ##
-##### - Learning C Programming
+##### &nbsp; - Learning C Programming
 #####   &nbsp; &nbsp; &nbsp; • DataTypes - Loops - Conditions
 #####   &nbsp; &nbsp; &nbsp; • Array - Strings
 #####   &nbsp; &nbsp; &nbsp; • Functions
@@ -25,18 +25,18 @@
 #####   &nbsp; &nbsp; &nbsp; • Preprocessor Directives
 #####   &nbsp; &nbsp; &nbsp; • Pointers
 
-#### - Data Structure
+#### &nbsp; - Data Structure
 ##### &nbsp; &nbsp; &nbsp; • Queue - Stack - Linked list (Know What is this and Implement Its Functions)
 
-#### - Algorithms
+#### &nbsp; - Algorithms
 ##### &nbsp; &nbsp; &nbsp; • Knowing Some Algorithms Technique (Searching - Sorting) Algorithms
 
-##### - Embedded C 
+##### &nbsp; - Embedded C 
 
 
 ### 3. Intermediate Level
-#### - MCU Fundmentals
-#### - Interfacing
+#### &nbsp; - MCU Fundmentals
+#### &nbsp; - Interfacing
 ##### &nbsp; &nbsp; &nbsp; • Know How to Interface Periphral With MCU
 ##### &nbsp; &nbsp; &nbsp; • Know About Standard Cmmuniaction Protocols UART - SPI - I2C
 ##### &nbsp; &nbsp; &nbsp; • ADC- Timer
@@ -46,12 +46,12 @@
 
 
 ### 4. Advanced Level
-#### - RTOS
+#### &nbsp; - RTOS
 
 ### 5. More Courses
-#### - Linux OS
-#### - Software Testing
-#### - ROS For Robotics
+#### &nbsp; - Linux OS
+#### &nbsp; - Software Testing
+#### &nbsp; - ROS For Robotics
 
 
 
