@@ -22,14 +22,13 @@
 #####    • Struct, Uinion, Enum
 #####    • Preprocessor Directives
 #####    • Pointers
-##### --------------------------------------
+##
 ##### - Data Structure
 ##### • Queue - Stack - Linked list (Know What is this and Implement Its Functions)
-##### --------------------------------------
+##
 ##### - Algorithms
 ##### • Knowing Some Algorithms Technique (Searching - Sorting) Algorithms
-##### --------------------------------------
-
+##
 ##### - Embedded C 
 ##### • Startup Code
 ##### • Linker Scribt
