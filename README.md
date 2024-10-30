@@ -24,6 +24,7 @@
 #####   &nbsp; &nbsp; &nbsp; • Struct, Uinion, Enum
 #####   &nbsp; &nbsp; &nbsp; • Preprocessor Directives
 #####   &nbsp; &nbsp; &nbsp; • Pointers
+#####   &nbsp; &nbsp; &nbsp; • malloc - calloc - realloc
 
 #### &nbsp; - Data Structure
 ##### &nbsp; &nbsp; &nbsp; • Queue - Stack - Linked list (Know What is this and Implement Its Functions)
