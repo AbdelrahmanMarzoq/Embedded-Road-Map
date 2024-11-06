@@ -21,7 +21,7 @@
 #### &nbsp; • Know The Data Types and Its Orgnization in Memory (int , char , double... etc)
 #### &nbsp; • struct ( Packing - Padding )
 #### &nbsp; • Pointer and Addresses Calling By Refrences & Value
-##
+
 
 ### &nbsp; - Learning C Programming
 ####   &nbsp; &nbsp; &nbsp; • DataTypes - Loops - Conditions
@@ -32,21 +32,27 @@
 ####   &nbsp; &nbsp; &nbsp; • Pointers
 ####   &nbsp; &nbsp; &nbsp; • malloc - calloc - realloc
 
-#### &nbsp; - Data Structure
-##### &nbsp; &nbsp; &nbsp; • Queue - Stack - Linked list (Know What is this and Implement Its Functions)
+### &nbsp; - Data Structure
+#### &nbsp; &nbsp; &nbsp; • Queue - Stack - Linked list (Know What is this and Implement Its Functions)
 
-#### &nbsp; - Algorithms
-##### &nbsp; &nbsp; &nbsp; • Knowing Some Algorithms Technique (Searching - Sorting) Algorithms
+### &nbsp; - Algorithms
+#### &nbsp; &nbsp; &nbsp; • Knowing Some Algorithms Technique (Searching - Sorting) Algorithms
 
-##### &nbsp; - Embedded C 
+### &nbsp; - Embedded C 
 
 
 ### 3. Intermediate Level
+
 #### &nbsp; - MCU Fundmentals
+
 #### &nbsp; - Interfacing
+
 ##### &nbsp; &nbsp; &nbsp; • Know How to Interface Periphral With MCU
+
 ##### &nbsp; &nbsp; &nbsp; • Know About Standard Cmmuniaction Protocols UART - SPI - I2C
+
 ##### &nbsp; &nbsp; &nbsp; • ADC- Timer
+
 ##### &nbsp; &nbsp; &nbsp; • CAN - LIN Protocols (Automotive Protocols)
 
 
