@@ -17,6 +17,11 @@
 ##### This Road Map Have Three Levels Beginner - Intermediate - Advanced
 ### 2. Beginner Level
 ##
+#### Objective 
+#### &nbsp; • Know The Data Types and Its Orgnization in Memory (int , char , double... etc)
+#### &nbsp; • struct ( Packing - Padding )
+#### &nbsp; • Pointer and Addresses Calling By Refrences & Value
+
 ##### &nbsp; - Learning C Programming
 #####   &nbsp; &nbsp; &nbsp; • DataTypes - Loops - Conditions
 #####   &nbsp; &nbsp; &nbsp; • Array - Strings
