@@ -75,9 +75,9 @@
 #### Learn in depth by Eng/ Kyrlos       (recommended)   [Registiration](https://www.learn-in-depth-store.com/online-diploma)
 #### Diploma Eng / Ahmed abd Elghafar    (recommended)   (01030442702)           
 #### Diploma Eng / Amgad Samir 
-#### Mahmoud kareem embedded
-#### [C/Embedded C](https://youtube.com/playlist?list=PLoiqjtgvXf9cgQbnEyRpT8FmtAZHUHG2O&si=g-ubKdedVCqIXS5-)
-#### [Embbeded interfacing](https://youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE&si=i8UeACTRLvdzrk1t)
+#### Mahmoud kareem embedded :
+####  &nbsp; &nbsp; &nbsp; • [C/Embedded C](https://youtube.com/playlist?list=PLoiqjtgvXf9cgQbnEyRpT8FmtAZHUHG2O&si=g-ubKdedVCqIXS5-)
+####  &nbsp; &nbsp; &nbsp; • [Embbeded interfacing](https://youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE&si=i8UeACTRLvdzrk1t)
 #### [Neso Academy C](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR&si=EWdYGtWH64HqGz5S)
 #### [Data structure & Algorithms](https://youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU&si=52ravWqBQbifb_zV)
 
