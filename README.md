@@ -81,10 +81,9 @@
 #### [Neso Academy C](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR&si=EWdYGtWH64HqGz5S)
 #### [Data structure & Algorithms](https://youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU&si=52ravWqBQbifb_zV)
 
-#### Problem solving:
-#### ICPC Playlist lvls 
-#### [lvl 0](https://youtube.com/playlist?list=PL06TMXRpUI1SwDDHexiQmpm7-n3X3AGcd&si=ZBGtahVABx5mjl5O)
-#### [lvl 1](https://youtube.com/playlist?list=PL06TMXRpUI1QA6NX5k3iENWE10D4EuxKq&si=ySSvLZWlfWLBh0Lr)
+#### Problem solving ( ICPC Playlist Levels ):
+#### &nbsp; &nbsp; &nbsp; • [lvl 0](https://youtube.com/playlist?list=PL06TMXRpUI1SwDDHexiQmpm7-n3X3AGcd&si=ZBGtahVABx5mjl5O)
+#### &nbsp; &nbsp; &nbsp; • [lvl 1](https://youtube.com/playlist?list=PL06TMXRpUI1QA6NX5k3iENWE10D4EuxKq&si=ySSvLZWlfWLBh0Lr)
 
 #
 # End Of Basics of Embedded Software
