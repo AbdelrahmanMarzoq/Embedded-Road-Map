@@ -67,7 +67,9 @@
 
 
 
-#### &nbsp; - RTOS 
+#### &nbsp; - RTOS
+##### &nbsp; &nbsp; &nbsp; • Writing your own RTOS and Schaduling 
+##### &nbsp; &nbsp; &nbsp; • Using FreeRTOS          
 
 #
 #
