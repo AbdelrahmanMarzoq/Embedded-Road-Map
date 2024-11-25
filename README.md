@@ -91,6 +91,12 @@
 
 ####  [Git&Github](https://www.youtube.com/watch?v=Q6G-J54vgKc)
 
+#### [ARM Microcontroller](https://youtube.com/playlist?list=PLPFp2zIiTnxXjxS-tC0u6m5zuSSJ1NLFw&si=_fTNg5I652K_zLTH)
+
+####  [Intro to RTOS](https://youtube.com/playlist?list=PL6XhtJWb6Qa8WCBqlQbp8VQ6OblW3DvCo&si=pVCjTCxKf_PsQkvz)
+
+
+
 #
 # End Of Basics of Embedded Software
 
