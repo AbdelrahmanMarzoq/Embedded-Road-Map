@@ -72,8 +72,8 @@
 #
 #
 #### &nbsp; - Suggested Courses
-#### Learn in depth by Eng/ Kyrlos       (recommended)   [Registiration](https://www.learn-in-depth-store.com/online-diploma)
-#### Diploma Eng / Ahmed abd Elghafar    (recommended)   (01030442702)           
+#### Learn in depth by Eng/ Kyrlos        [Registiration](https://www.learn-in-depth-store.com/online-diploma) (recommended) 
+#### Diploma Eng / Ahmed abd Elghafar      (01030442702)         (recommended)    
 #### Diploma Eng / Amgad Samir 
 #### Mahmoud kareem embedded :
 ####  &nbsp; &nbsp; &nbsp; • [C/Embedded C](https://youtube.com/playlist?list=PLoiqjtgvXf9cgQbnEyRpT8FmtAZHUHG2O&si=g-ubKdedVCqIXS5-)
