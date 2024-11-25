@@ -87,7 +87,9 @@
 
 #### Problem solving ( ICPC Playlist Levels ):
 #### &nbsp; &nbsp; &nbsp; • [lvl 0](https://youtube.com/playlist?list=PL06TMXRpUI1SwDDHexiQmpm7-n3X3AGcd&si=ZBGtahVABx5mjl5O)
-#### &nbsp; &nbsp; &nbsp; • [lvl 1](https://youtube.com/playlist?list=PL06TMXRpUI1QA6NX5k3iENWE10D4EuxKq&si=ySSvLZWlfWLBh0Lr)
+#### &nbsp; &nbsp; &nbsp; • [lvl 1](https://youtube.com/playlist?list=PL06TMXRpUI1QA6NX5k3iENWE10D4EuxKq&si=ySSvLZWlfWLBh0Lr) 
+
+####  [Git&Github](https://www.youtube.com/watch?v=Q6G-J54vgKc)
 
 #
 # End Of Basics of Embedded Software
