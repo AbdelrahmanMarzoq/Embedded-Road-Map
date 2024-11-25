@@ -72,9 +72,11 @@
 #
 #
 #### &nbsp; - Suggested Courses
-#### [Learn in depth](https://www.learn-in-depth-store.com/online-diploma) by Eng/ Keroles Shenouda      (recommended) 
-#### Diploma Eng / Ahmed abd Elghafar      (01030442702)         (recommended)    
-#### Diploma Eng / Amgad Samir 
+#### Diploma
+#### &nbsp; &nbsp; &nbsp; •  [Learn in depth](https://www.learn-in-depth-store.com/online-diploma) by Eng/ Keroles Shenouda      (recommended) 
+#### &nbsp; &nbsp; &nbsp; •  Diploma Eng / Ahmed abd Elghafar      (01030442702)      &nbsp; &nbsp; &nbsp; •    (recommended)    
+#### &nbsp; &nbsp; &nbsp; •  Diploma Eng / Amgad Samir 
+
 #### Mahmoud kareem embedded :
 ####  &nbsp; &nbsp; &nbsp; • [C/Embedded C](https://youtube.com/playlist?list=PLoiqjtgvXf9cgQbnEyRpT8FmtAZHUHG2O&si=g-ubKdedVCqIXS5-)
 ####  &nbsp; &nbsp; &nbsp; • [Embbeded interfacing](https://youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE&si=i8UeACTRLvdzrk1t)
